@@ -2,7 +2,9 @@ Android TabSwiperLib.
 ============================================
 
 Simple ViewPager extension with animated paging indicator.  
-Compatible since API Level 9.
+Compatible since API Level 9.  
+
+![TabSwiperLib Screenshot 1][1]        ![TabSwiperLib Screenshot 1][2]
 
 Developed by
 ---
@@ -44,3 +46,6 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+[1]: https://raw.github.com/alfdev/TabSwiperLib/master/TabSwiperLibDemo/screen1.png
+[2]: https://raw.github.com/alfdev/TabSwiperLib/master/TabSwiperLibDemo/screen2.png
