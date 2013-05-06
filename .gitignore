@@ -6,3 +6,8 @@ gen
 .project
 .classpath
 .settings
+
+#Command line
+local.properties
+build.xml
+proguard-project.txt
